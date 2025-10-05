@@ -1,13 +1,11 @@
 ---
 # Display name
-title: 吳健雄
+title: Shabbir Ahmed
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shabbir
+last_name: Ahmed
 
 # Status emoji
 status:
@@ -20,59 +18,53 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: South Dakota State University
+    url: https://www.sdstate.edu/directory/shabbir-ahmed
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:shabbir.ahmed@sdstate.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/shabbir-ahmed-81146a116/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=wYxw9ZgAAAAJ&hl=en&inst=5831747260623323207
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8296-6025
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Mechanical Engineering
+    institution: Rensselaer Polytechnic Institute
+    date_start: 2017
+    date_end: 2022
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      #Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Mechanical Engineering
+    institution: North Dakota State University
+    date_start: 2015
+    date_end: 2017
     summary: |
-      GPA: 3.8/4.0
+      
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Mechanical Engineering
+    institution: Bangladesh University of Engineering and Technology
+    date_start: 2008
+    date_end: 2013
     summary: |
-      GPA: 3.4/4.0
+      
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
