@@ -1,12 +1,5 @@
 ---
-
 title: "Sponsors"
-
 draft: true
-
-aliases: \[]
-
+aliases: []
 ---
-
-
-

@@ -1,12 +1,6 @@
 ---
-
 title: "Sponsors"
-
 draft: true
-
-aliases: \[]   # ensure it cannot claim "/"
-
+aliases: []   # don't let it map to "/"
 ---
-
-
 
