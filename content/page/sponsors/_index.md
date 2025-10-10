@@ -1,10 +1,10 @@
 ---
 
-title: "Sponsors"
+title: Sponsors
 
 draft: true
 
-aliases: \[]   # prevents mapping to "/"
+aliases: []   
 
 ---
 
