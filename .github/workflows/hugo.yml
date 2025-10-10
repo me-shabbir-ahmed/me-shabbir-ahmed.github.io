@@ -22,7 +22,7 @@ jobs:
         run: |
            hugo --gc --minify \
            --baseURL "${{ steps.pages.outputs.base_url }}/" \
-           --verbose --printI18nWarnings --printPathWarnings
+           --printI18nWarnings --printPathWarnings
 
            
       - uses: actions/upload-pages-artifact@v3
