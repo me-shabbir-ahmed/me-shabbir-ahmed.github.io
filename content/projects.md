@@ -9,7 +9,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-projects
+  - block: resume-biography-2
     content:
       title: Selected Projects
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
