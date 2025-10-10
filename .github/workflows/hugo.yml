@@ -20,11 +20,8 @@ jobs:
           echo "$HOME/.local/hugo" >> $GITHUB_PATH
       - name: Build
         run: |
-         hugo \
-           --gc --minify \
-           --baseURL "${{ steps.pages.outputs.base_url }}/" \
-           --log --verbose --printI18nWarnings --printPathWarnings --debug
-
+         hugo --gc --minify --baseURL "https://me-shabbir-ahmed.github.io/" --verbose --printI18nWarnings --printPathWarnings --debug
+           
       - uses: actions/upload-pages-artifact@v3
         with: { path: "./public" }
 
