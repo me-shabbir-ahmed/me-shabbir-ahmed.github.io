@@ -1,15 +1,12 @@
 ---
-title: Home
+title: "Home"
 type: landing
 sections:
-  - block: about
-    id: about
+  - block: resume-biography-2
+    id: bio
     content:
-      title: Shabbir Ahmed
-      author: admin
-      show:
-        interests: true
-        education: true
+      title: "About me"
+      user: admin
 ---
 
 
