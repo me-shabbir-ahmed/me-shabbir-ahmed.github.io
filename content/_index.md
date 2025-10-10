@@ -2,12 +2,9 @@
 title: "Home"
 type: landing
 sections:
-  - block: about
-    id: about
+  - block: resume-biography-2
+    id: bio
     content:
-      title: "Shabbir Ahmed"
-      author: "admin"   # uses content/authors/admin/_index.md
-      show:
-        interests: true
-        education: true
+      title: "About me"
+      user: admin
 ---
