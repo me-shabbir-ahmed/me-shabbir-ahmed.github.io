@@ -1,21 +1,20 @@
 ---
 title: Home
 type: landing
-
 sections:
   - block: markdown
     id: welcome
     content:
       title: Welcome
       text: |-
-        This is a test paragraph to confirm sections render on the homepage.
-
-  - block: people
-    id: people
+        Welcome to my academic website. I am an Assistant Professor at South Dakota State University specializing in Mechanical Engineering.
+  
+  - block: resume-biography
+    id: biography
     content:
-      title: About
-      users: [admin]
-      show_social: true
+      username: admin
+      text: ""
+    design:
       show_interests: true
       show_education: true
 ---
