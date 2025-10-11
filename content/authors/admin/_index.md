@@ -167,3 +167,18 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
+## About Me
+
+I am an Assistant Professor in the Department of Mechanical Engineering at South Dakota State University. My research focuses on [your research areas - e.g., computational fluid dynamics, heat transfer, renewable energy, etc.].
+
+Prior to joining SDSU, I completed my PhD in Mechanical Engineering at Rensselaer Polytechnic Institute in 2022 and my MS at North Dakota State University. My doctoral research focused on [brief description of your PhD work].
+
+## Research Interests
+
+- [Research area 1]
+- [Research area 2]
+- [Research area 3]
+
+## Teaching
+
+I teach courses in [course names/areas] and enjoy mentoring graduate and undergraduate students in research projects.
