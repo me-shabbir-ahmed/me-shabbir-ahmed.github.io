@@ -56,7 +56,7 @@ locale:
 
 # Site features
 features:
-  page_builder: sections
+  page_builder: blocks
   math:
     enable: false
   privacy_pack:
