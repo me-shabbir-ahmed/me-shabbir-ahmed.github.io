@@ -5,7 +5,7 @@
 
 main:
   - name: Bio
-    url: '#people' 
+    url: /#people
     weight: 10
   - name: Research
     url: /publication
