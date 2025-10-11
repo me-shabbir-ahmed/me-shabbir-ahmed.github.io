@@ -11,7 +11,7 @@ sections:
         This is a test paragraph to confirm sections render on the homepage.
 
   - block: people
-    id: about
+    id: people
     content:
       title: About
       users: [admin]
