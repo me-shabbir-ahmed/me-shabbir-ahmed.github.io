@@ -9,7 +9,7 @@ sections:
       text: |-
         Welcome to my academic website.
   
-  - block: biography
+  - block: resume-biography-2
     id: people
     content:
       username: admin
