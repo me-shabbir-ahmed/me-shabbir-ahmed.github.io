@@ -18,7 +18,7 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-experience
+  - block: resume-biography-2
     content:
       title: Skills & Hobbies
       username: admin
