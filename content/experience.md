@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-biography-2
     content:
-      user: admin
+      username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
