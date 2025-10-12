@@ -49,4 +49,44 @@ social:
 
 status:
   icon: "☕️"
+work:
+  - position: Assistant Professor
+    company_name: South Dakota State University
+    company_url: 'https://www.sdstate.edu'
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: ''
+    summary: |
+      Department of Mechanical Engineering
+      
+      Responsibilities include:
+      - Teaching undergraduate and graduate courses in mechanical engineering
+      - Conducting research in structural health monitoring and battery diagnostics
+      - Advising graduate students in research projects
+      - Developing lab facilities for ultrasonic testing and system identification
+  
+  - position: Postdoctoral Researcher
+    company_name: Rensselaer Polytechnic Institute
+    company_url: 'https://www.rpi.edu'
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: 2022-07-31
+    summary: |
+      Mechanical, Aerospace, and Nuclear Engineering Department
+      
+      - Conducted research on guided wave-based structural health monitoring
+      - Developed data-driven system identification algorithms
+  
+  - position: Graduate Research Assistant
+    company_name: Rensselaer Polytechnic Institute
+    company_url: 'https://www.rpi.edu'
+    company_logo: ''
+    date_start: 2017-08-01
+    date_end: 2022-05-01
+    summary: |
+      PhD Research
+      
+      - Investigated ultrasonic guided waves for structural health monitoring
+      - Developed Koopman operator-based methods for battery diagnostics
+      - Published research in peer-reviewed journals
 ---
