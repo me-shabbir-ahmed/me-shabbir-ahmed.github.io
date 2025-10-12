@@ -24,7 +24,7 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-biography-2
+  - block: resume-skills
     content:
       title: Awards
       username: admin
