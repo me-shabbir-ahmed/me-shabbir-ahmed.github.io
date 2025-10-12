@@ -29,10 +29,10 @@ sections:
         - statistic: "15"
           description: |
             Publications
-        - statistic: "1,000+"
+        - statistic: "260+"
           description: |
             Citations
-        - statistic: "78"
+        - statistic: "8"
           description: |
             h-index
     design:
@@ -46,9 +46,9 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am an Assistant Professor in the Mechanical Engineering department at South Dakota State University. I am enthusiastic about modeling dynamical systems, signals and wave propagation.
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        **Specialties:** Time Series Analysis, Waves and Structures, Damage Diagnosis
     design:
       columns: '1'
   - block: collection
