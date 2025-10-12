@@ -3,39 +3,28 @@ title: 'Experience'
 date: 2023-10-24
 type: landing
 
+design:
+  # Section spacing
+  spacing: '5rem'
+
+# Page sections
 sections:
-  - block: markdown
+  - block: resume-projects
     content:
-      title: Professional Experience
-      text: |
-        ## Assistant Professor
-        **South Dakota State University** | August 2022 - Present
-        
-        Department of Mechanical Engineering
-        
-        - Teaching undergraduate and graduate courses in mechanical engineering
-        - Conducting research in structural health monitoring and battery diagnostics
-        - Advising graduate students in research projects
-        - Developing lab facilities for ultrasonic testing and system identification
-        
-        ---
-        
-        ## Postdoctoral Researcher
-        **Rensselaer Polytechnic Institute** | May 2022 - July 2022
-        
-        Mechanical, Aerospace, and Nuclear Engineering Department
-        
-        - Conducted research on guided wave-based structural health monitoring
-        - Developed data-driven system identification algorithms
-        
-        ---
-        
-        ## Graduate Research Assistant
-        **Rensselaer Polytechnic Institute** | August 2017 - May 2022
-        
-        PhD Research
-        
-        - Investigated ultrasonic guided waves for structural health monitoring
-        - Developed Koopman operator-based methods for battery diagnostics
-        - Published research in peer-reviewed journals
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
+      items:
+        - title: Pandas
+          description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+          image: panda.png
+          url: https://github.com/pandas-dev/pandas
+        - title: scikit-learn
+          description: scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+          image: robot.png
+          url: https://github.com/scikit-learn/scikit-learn
+        - title: PyTorch
+          description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+          image: nlp.png
+          url: https://github.com/pytorch/pytorch
 ---
