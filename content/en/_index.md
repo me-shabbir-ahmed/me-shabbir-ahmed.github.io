@@ -3,7 +3,7 @@ title: Home
 type: landing
 
 sections:
-  - block: resume-biography
+  block: resume-biography
     id: people
     content:
     username: admin
