@@ -6,8 +6,12 @@ sections:
     id: people
     content:
       title: Shabbir Ahmed
-      subtitle: Assistant Professor | South Dakota State University
       text: |
+        **Assistant Professor | Department of Mechanical Engineering**  
+        **South Dakota State University**
+        
+        ---
+        
         ## About Me
         
         I am an Assistant Professor in the Department of Mechanical Engineering at South Dakota State University. My research focuses on structural health monitoring (ultrasonic guided waves), battery diagnostics, and data-driven system identification (ARX/VARX, DMD/DMDc, Koopman).
