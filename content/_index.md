@@ -79,4 +79,20 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+- block: resume-experience
+    content:
+      title: Experience
+      subtitle: ''
+      text: ''
+      # Choose the user profile to display
+      # This should be the username (folder name) of a profile in your content/authors/ folder
+      username: admin
+    design:
+      # Date format for experience entries
+      date_format: January 2006
+      # Show education section first (default is work experience first)
+      is_education_first: false
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]    
 ---
