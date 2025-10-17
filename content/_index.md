@@ -69,6 +69,8 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
+        publication_date:
+          after: '2023-01-01'  
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
