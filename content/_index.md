@@ -72,8 +72,8 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-        publication_date:
-          after: '2023-01-01'  
+        folders: ['post']
+        exclude_folders: ['event', 'publication', 'authors', 'page', 'slides', 'project', 'en'] 
       # Choose how many pages you would like to offset by
       offset: 1
       # Page order: descending (desc) or ascending (asc) date.
