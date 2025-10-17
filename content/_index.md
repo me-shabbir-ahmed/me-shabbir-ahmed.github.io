@@ -78,7 +78,7 @@ sections:
       #view: date-title-summary
       columns: '1'
       # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      #spacing:
+        #padding: [0, 0, 0, 0]
   
 ---
