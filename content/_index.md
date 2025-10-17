@@ -3,6 +3,9 @@
 title:
 #date: 2022-10-24
 type: landing
+_build:
+  list: never
+  render: always
 
 sections:
   - block: resume-biography-2
