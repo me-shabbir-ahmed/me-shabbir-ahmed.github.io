@@ -51,14 +51,6 @@ sections:
         **Specialties:** Time Series Analysis, Waves and Structures, Damage Diagnosis
     design:
       columns: '1'
-  - block: resume-experience
-    content:
-      title: Experience
-      subtitle: ''
-      text: ''
-      username: admin
-    
-      
   - block: collection
     content:
       title: Recent News
