@@ -1,10 +1,9 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+#date: 2022-10-24
 type: landing
-_build:
-  list: never
+
 sections:
   - block: resume-biography-2
     content:
