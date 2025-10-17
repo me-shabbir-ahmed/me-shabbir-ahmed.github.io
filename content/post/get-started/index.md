@@ -1,7 +1,7 @@
 ---
 title: "🎉 Easily create your own simple yet highly customizable blog"
 date: 2023-10-27
-authors: [admin]
+#authors: [admin]
 tags: [Academic, Wowchemy, Markdown]
 ---
 
