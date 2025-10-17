@@ -75,9 +75,9 @@ sections:
       #order: desc
     design:
       # Choose a layout view
-      #view: date-title-summary
-      view: compact
+      view: card
       columns: '1'
+      #view: date-title-summary
       # Reduce spacing
       #spacing:
         #padding: [0, 0, 0, 0]
