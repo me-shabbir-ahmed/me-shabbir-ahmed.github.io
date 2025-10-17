@@ -75,7 +75,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      %view: date-title-summary
+      columns: '1'
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
