@@ -28,7 +28,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'Computational-Study-of-Flow-Around-a-NACA-0012-Wing.pdf'
+url_pdf: '2-Computational-Study-of-Flow.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
