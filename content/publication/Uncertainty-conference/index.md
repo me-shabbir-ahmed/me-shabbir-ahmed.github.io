@@ -8,7 +8,7 @@ authors:
   - Shabbir Ahmed
   - Fotis Kopsaftopoulos
 
-date: '2019-01-01'
+date: '2019-02-01'
 doi: ''
 
 # Publication type.
@@ -25,8 +25,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-name: Vertical Flight Society
-url: https://vtol.org/vfs-works-for-you/publications-and-resource-library/vertical-flight-resource-library/search-results/search-results-display-paper?documentType=proceedings&techPaperID=7244
+# name: Vertical Flight Society
+# url: https://vtol.org/vfs-works-for-you/publications-and-resource-library/vertical-flight-resource-library/search-results/search-results-display-paper?documentType=proceedings&techPaperID=7244
 
 url_pdf: 'publication/uncertainty-conference/paper4.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
