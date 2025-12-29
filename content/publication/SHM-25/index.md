@@ -9,7 +9,7 @@ authors:
   - Fotis Kopsaftopoulos
 
 date: '2025-01-01'
-doi: '10.1177/14759217231220548'
+doi: '10.1177/14759217251369342'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
