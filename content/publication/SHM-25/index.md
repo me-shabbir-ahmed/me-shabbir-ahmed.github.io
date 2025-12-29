@@ -1,5 +1,5 @@
 ---
-title: 'Stochastic Identification of Guided Wave Propagation under Ambient Temperature via Non-Stationary Time Series Models'
+title: 'A functional series time-dependent framework for non-stationary modeling and statistical damage diagnosis via ultrasonic guided waves'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,15 +8,15 @@ authors:
   - Shabbir Ahmed
   - Fotis Kopsaftopoulos
 
-date: '2021-01-01'
-doi: '10.3390/s21165672'
+date: '2025-01-01'
+doi: '10.1177/14759217231220548'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ['article-journal']
 
-abstract: In the context of active-sensing guided-wave-based acousto-ultrasound structural health monitoring, environmental and operational variability poses a considerable challenge in the damage diagnosis process as they may mask the presence of damage. In this work, the stochastic nature of guided wave propagation due to the small temperature variation, naturally occurring in the ambient or environment, is rigorously investigated and modeled with the help of stochastic time-varying time series models, for the first time, with a system identification point of view. More specifically, the output-only recursive maximum likelihood time-varying auto-regressive model (RML-TAR) is employed to investigate the uncertainty in guided wave propagation by analyzing the time-varying model parameters. The steps and facets of the identification procedure are presented, and the obtained model is used for modeling the uncertainty of the time-varying model parameters that capture the underlying dynamics of the guided waves. The stochasticity inherent in the modal properties of the system, such as natural frequencies and damping ratios, is also analyzed with the help of the identified RML-TAR model. It is stressed that the narrow-band high-frequency actuation for guided wave propagation excites more than one frequency in the system. The values and the time evolution of those frequencies are analyzed, and the associated uncertainties are also investigated. In addition, a high-fidelity finite element (FE) model was established, and Monte Carlo simulations on that FE model were carried out to understand the effect of small temperature perturbation on guided wave signals.
+abstract: This study presents a novel statistical structural damage diagnosis framework using ultrasonic guided wave signals. The approach employs functional series time-dependent autoregressive (FS-TAR) models to capture the non-stationary dynamics of guided wave propagation. Unlike traditional methods that analyze only initial wave packets, this framework utilizes complete guided wave signals, including reflected waves, providing a comprehensive assessment of structural state. The FS-TAR model represents time-varying parameters through deterministic evolution using orthogonal basis functions. Three basis function families, namely, wavelet, Chebyshev, and trigonometric, have been evaluated to determine optimal signal representation. The covariance structure of the estimated time-invariant coefficients of projection vector and time-varying model parameters is extensively investigated, and their role in damage diagnosis is assessed. Two complementary damage diagnosis approaches are developed: one based on time-invariant projection coefficients and another using time-dependent model parameters. Both approaches employ statistical hypothesis testing with established confidence bounds derived from the asymptotic properties of the parameter estimators. Experimental validation is conducted on an aluminum plate under various damage scenarios, including both damage-intersecting and non-intersecting wave propagation paths. Results demonstrate accurate and robust damage detection and classification across all tested states. The wavelet basis functions show superior performance, providing the clearest parameter separation between healthy and damaged states. Key advantages include (i) utilization of complete wave signals rather than isolated wave packets, (ii) response-only operation without requiring input measurements, (iii) established statistical framework with quantified uncertainties, and (iv) real-time applicability with minimal computational requirements.
 
 
 
@@ -28,7 +28,7 @@ featured: false
 # name: Vertical Flight Society
 # url: https://vtol.org/vfs-works-for-you/publications-and-resource-library/vertical-flight-resource-library/search-results/search-results-display-paper?documentType=proceedings&techPaperID=7244
 
-url_pdf: 'publication/uncertainty-journal/paper5.pdf'
+url_pdf: 'publication/shm-25/paper17.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
