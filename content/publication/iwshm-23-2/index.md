@@ -1,5 +1,5 @@
 ---
-title: 'Design of Multifunctional Structural Battery Composites for the Next Generation of Electric Vehicles'
+title: 'Damage localization in an aluminum plate using built-in piezo-electric sensor induced ultrasonic signals'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
