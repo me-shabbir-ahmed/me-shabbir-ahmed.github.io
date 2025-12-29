@@ -18,8 +18,7 @@ doi: '10.1177/0021998318763994'
 # Enter a publication type from the CSL standard.
 publication_types: ['article-journal']
 
-abstract: 
-Surface free energy of a fiber is an important parameter for predicting the interfacial bond strength of fiber-matrix adhesion of composite materials. For mechanical characterization of bio-composite materials, the measurement of the surface energy of individual single microfibers is complicated due to their surface roughness, formation of chemical bonds, wicking characteristics, etc. This paper demonstrates a novel method for determining the dispersive component of surface free energy ($\gamma_d$) of a single flax fiber by directly measuring the adhesion force between the probe tip of an atomic force microscope and the fiber surface. Johnson–Kendal–Roberts theory was employed to correlate the adhesion force with the surface energy and tip radius. Finally, the value of $\gamma_d$ was determined, and its significance with respect to other methods was analyzed. 
+abstract: Surface free energy of a fiber is an important parameter for predicting the interfacial bond strength of fiber-matrix adhesion of composite materials. For mechanical characterization of bio-composite materials, the measurement of the surface energy of individual single microfibers is complicated due to their surface roughness, formation of chemical bonds, wicking characteristics, etc. This paper demonstrates a novel method for determining the dispersive component of surface free energy ($\gamma_d$) of a single flax fiber by directly measuring the adhesion force between the probe tip of an atomic force microscope and the fiber surface. Johnson–Kendal–Roberts theory was employed to correlate the adhesion force with the surface energy and tip radius. Finally, the value of $\gamma_d$ was determined, and its significance with respect to other methods was analyzed. 
 
 
 
