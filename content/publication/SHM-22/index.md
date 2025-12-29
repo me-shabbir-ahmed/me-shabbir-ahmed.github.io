@@ -1,5 +1,5 @@
 ---
-title: 'Stochastic Identification of Guided Wave Propagation under Ambient Temperature via Non-Stationary Time Series Models'
+title: 'Active sensing ultrasonic guided wave-based damage diagnosis via stochastic stationary time-series models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,15 +8,15 @@ authors:
   - Shabbir Ahmed
   - Fotis Kopsaftopoulos
 
-date: '2021-01-01'
-doi: '10.3390/s21165672'
+date: '2024-03-015'
+doi: '10.1177/14759217231201975'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ['article-journal']
 
-abstract: In the context of active-sensing guided-wave-based acousto-ultrasound structural health monitoring, environmental and operational variability poses a considerable challenge in the damage diagnosis process as they may mask the presence of damage. In this work, the stochastic nature of guided wave propagation due to the small temperature variation, naturally occurring in the ambient or environment, is rigorously investigated and modeled with the help of stochastic time-varying time series models, for the first time, with a system identification point of view. More specifically, the output-only recursive maximum likelihood time-varying auto-regressive model (RML-TAR) is employed to investigate the uncertainty in guided wave propagation by analyzing the time-varying model parameters. The steps and facets of the identification procedure are presented, and the obtained model is used for modeling the uncertainty of the time-varying model parameters that capture the underlying dynamics of the guided waves. The stochasticity inherent in the modal properties of the system, such as natural frequencies and damping ratios, is also analyzed with the help of the identified RML-TAR model. It is stressed that the narrow-band high-frequency actuation for guided wave propagation excites more than one frequency in the system. The values and the time evolution of those frequencies are analyzed, and the associated uncertainties are also investigated. In addition, a high-fidelity finite element (FE) model was established, and Monte Carlo simulations on that FE model were carried out to understand the effect of small temperature perturbation on guided wave signals.
+abstract: In the context of acousto-ultrasonic guided wave-based structural health monitoring, a statistical damage detection and identification (collectively referred to as damage diagnosis) framework for metallic and composite materials is proposed. Stochastic stationary time-series autoregressive (AR) models are used to model the ultrasonic wave propagation between piezoelectric actuator-sensor pairs on structural components and enable the damage diagnosis process via the use of the AR estimated parameters and corresponding covariance matrices. The proposed method exploits guided wave signals including the reflection parts, and thus the extraction of the S0 and/or A0 modes is not necessary, while the statistical properties and variation of estimated model parameters with respect to damage intersecting and non-intersecting wave propagation paths are presented and assessed. To investigate the method’s performance and robustness, two variations are proposed based on the singular value decomposition and principal component analysis. The obtained modified AR parameter vectors are then used to estimate appropriate statistical characteristic quantities used to enable the damage detection and identification tasks. The diagnosis is based on properly defined statistical hypotheses decision-making schemes and predetermined type I error probabilities. The performance and applicability of the method are explored experimentally via a series of tests on aluminum and composite coupons under various damage scenarios for damage intersecting and non-intersecting paths. The results of the present study demonstrated the effectiveness and robustness of the proposed modeling and diagnostic framework for guided wave-based damage diagnosis that can be implemented in a potentially automated way.
 
 
 
@@ -28,7 +28,7 @@ featured: false
 # name: Vertical Flight Society
 # url: https://vtol.org/vfs-works-for-you/publications-and-resource-library/vertical-flight-resource-library/search-results/search-results-display-paper?documentType=proceedings&techPaperID=7244
 
-url_pdf: 'publication/uncertainty-journal/paper5.pdf'
+url_pdf: 'publication/shm-22/paper16.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
