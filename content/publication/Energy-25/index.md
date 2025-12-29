@@ -28,7 +28,7 @@ featured: false
 # name: Vertical Flight Society
 # url: https://vtol.org/vfs-works-for-you/publications-and-resource-library/vertical-flight-resource-library/search-results/search-results-display-paper?documentType=proceedings&techPaperID=7244
 
-url_pdf: 'publication/energy-25/Lithium-ion-battery.pdf'
+url_pdf: 'publication/energy-25/lithium-ion-battery.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
