@@ -8,7 +8,7 @@ authors:
   - Shabbir Ahmed
   - Fotis Kopsaftopoulos
 
-date: '2024-03-015'
+date: '2024-03-15'
 doi: '10.1177/14759217231201975'
 
 # Publication type.
