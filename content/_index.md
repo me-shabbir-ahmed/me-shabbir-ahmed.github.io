@@ -19,8 +19,8 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          #filename: li-yang-5h_dMuX_7RE-unsplash.webp
-          filename: robot.png
+          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          #filename: robot.png
           filters:
             brightness: 0.4
           size: cover
@@ -32,15 +32,21 @@ sections:
         - statistic: 'Time Series Analysis'
           description: |
             Application in Dynamical Systems
-        - statistic: " Stress Waves Propagation"
+        - statistic: " Stress Waves"
           description: |
             Application in Structural Health Monitoring (SHM)
         - statistic: "Lithium Ion Battery"
           description: |
-            h-index
-        - statistic: "Lithium Ion Battery"
+            Battery degradation and SoH
+        - statistic: "System Idenfification"
           description: |
-            h-index
+            Application in Structural Dynamics
+        - statistic: "Control Systems"
+          description: |
+            PID, MPC, State Estimation
+        - statistic: "Dynamics"
+          description: |
+            Application in Robotics and Structures
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -52,9 +58,9 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I am an Assistant Professor in the Mechanical Engineering department at South Dakota State University. I am enthusiastic about modeling dynamical systems, signals and wave propagation.
+        I am an Assistant Professor in the Mechanical Engineering department at South Dakota State University. I lead Dynamical Systems and Signals Lab (DSSL).
 
-        **Specialties:** Time Series Analysis, Waves and Structures, Damage Diagnosis
+        
     design:
       columns: '1'
   - block: collection
