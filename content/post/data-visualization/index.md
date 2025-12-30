@@ -8,7 +8,7 @@ tags: []
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-# Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+''Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.''
 
 # Use popular tools such as Plotly, Mermaid, and data frames.
 
