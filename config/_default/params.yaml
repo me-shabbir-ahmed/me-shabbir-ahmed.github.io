@@ -42,13 +42,14 @@ header:
 # Site footer
 footer:
   copyright:
+    show_powered_by: false 
     notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-      show_powered_by: false 
+      
 
 # Localization
 locale:
