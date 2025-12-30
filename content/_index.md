@@ -29,10 +29,10 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "<span style='font-size: 1.2rem; display: block; line-height: 1.2;'>Time Series Analysis</span>"
+        - statistic: "<span style='font-size: 1.5rem; display: block; line-height: 1.2;'>Time Series Analysis</span>"
           description: |
             Application in Dynamical Systems
-        - statistic: "<span style='font-size: 1.2rem; display: block; line-height: 1.2;'>Stress Waves</span>"
+        - statistic: "<span style='font-size: 1.5rem; display: block; line-height: 1.2;'>Stress Waves</span>"
           description: |
             Application in Structural Health Monitoring (SHM)
         - statistic: "<span style='font-size: 1.5rem; display: block; line-height: 1.2;'>Lithium Ion Battery</span>"
