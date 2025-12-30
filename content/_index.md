@@ -29,13 +29,16 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: 'Time Series'
+        - statistic: 'Time Series Analysis'
           description: |
-            Publications
-        - statistic: "260+"
+            Application in Dynamical Systems
+        - statistic: " Stress Waves Propagation"
           description: |
-            Citations
-        - statistic: "8"
+            Application in Structural Health Monitoring (SHM)
+        - statistic: "Lithium Ion Battery"
+          description: |
+            h-index
+        - statistic: "Lithium Ion Battery"
           description: |
             h-index
     design:
