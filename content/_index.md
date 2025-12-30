@@ -29,7 +29,7 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: 'Time Series Analysis'
+        - statistic: "<span style='font-size: 1.2 rem;'>Time Series Analysis</span>"
           description: |
             Application in Dynamical Systems
         - statistic: " Stress Waves"
