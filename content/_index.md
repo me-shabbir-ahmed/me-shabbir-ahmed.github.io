@@ -29,7 +29,7 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: '<i class="fas fa-wave-square"></i>'
+        - statistic: "Time Series"
           description: |
             Publications
         - statistic: "260+"
