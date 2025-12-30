@@ -1,5 +1,5 @@
 ---
-title: Uses
+title: Contact and Opening
 date: 2023-10-24
 pager: false
 ---
