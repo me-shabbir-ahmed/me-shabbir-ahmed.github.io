@@ -27,19 +27,19 @@ sections:
           description: MS Student
           image: nlp.png
           url:
-      - title: RKBM Rizmi
+        - title: RKBM Rizmi
           description: PhD Student
           image: nlp.png
           url:
-      - title: Saad Waheed
+        - title: Saad Waheed
           description: PhD Student
           image: nlp.png
           url:
-      - title: Inayat Rasool
+        - title: Inayat Rasool
           description: MS Student
           image: nlp.png
           url:
-      - title: Bakhtiar Nafis
+        - title: Bakhtiar Nafis
           description: MS Student
           image: nlp.png
           url: 
