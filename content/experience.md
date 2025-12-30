@@ -11,20 +11,36 @@ design:
 sections:
   - block: resume-projects
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Personnel
+      text: I enjoy working with talented people. My current graduate students are listed below
       # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
       items:
-        - title: Pandas
-          description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+        - title: Mohammed Almalki
+          description: PhD Student
           image: panda.png
-          url: https://github.com/pandas-dev/pandas
-        - title: scikit-learn
-          description: scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+          url: 
+        - title: Synthia Ferdouse
+          description: PhD Student
           image: robot.png
-          url: https://github.com/scikit-learn/scikit-learn
-        - title: PyTorch
-          description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+          url: 
+        - title: Khalid Labib
+          description: MS Student
           image: nlp.png
-          url: https://github.com/pytorch/pytorch
+          url:
+      - title: RKBM Rizmi
+          description: PhD Student
+          image: nlp.png
+          url:
+      - title: Saad Waheed
+          description: PhD Student
+          image: nlp.png
+          url:
+      - title: Inayat Rasool
+          description: MS Student
+          image: nlp.png
+          url:
+      - title: Bakhtiar Nafis
+          description: MS Student
+          image: nlp.png
+          url: 
 ---
