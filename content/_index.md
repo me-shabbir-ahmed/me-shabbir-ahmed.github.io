@@ -32,19 +32,19 @@ sections:
         - statistic: "<span style='font-size: 1.2rem; display: block; line-height: 1.2;'>Time Series Analysis</span>"
           description: |
             Application in Dynamical Systems
-        - statistic: " Stress Waves"
+        - statistic: "<span style='font-size: 1.2rem; display: block; line-height: 1.2;'>Stress Waves</span>"
           description: |
             Application in Structural Health Monitoring (SHM)
-        - statistic: "Lithium Ion Battery"
+        - statistic: "<span style='font-size: 1.5rem; display: block; line-height: 1.2;'>Lithium Ion Battery</span>"
           description: |
             Battery degradation and SoH
-        - statistic: "System Idenfification"
+        - statistic: "<span style='font-size: 1.5rem; display: block; line-height: 1.2;'>System Identification</span>"
           description: |
             Application in Structural Dynamics
-        - statistic: "Control Systems"
+        - statistic: "<span style='font-size: 1.5rem; display: block; line-height: 1.2;'>Control System</span>"
           description: |
             PID, MPC, State Estimation
-        - statistic: "Dynamics"
+        - statistic: "<span style='font-size: 1.5rem; display: block; line-height: 1.2;'>Dynamics</span>"
           description: |
             Application in Robotics and Structures
     design:
@@ -58,7 +58,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I am an Assistant Professor in the Mechanical Engineering department at South Dakota State University. I lead Dynamical Systems and Signals Lab (DSSL).
+        I am an Assistant Professor in the Mechanical Engineering department at South Dakota State University (SDSU). I lead Dynamical Systems and Signals Lab (DSSL) at SDSU.
 
         
     design:
