@@ -38,6 +38,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Shabbir Ahmed"
+      file: "robot.png"
 
 # Site footer
 footer:
