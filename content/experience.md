@@ -25,22 +25,22 @@ sections:
           url: 
         - title: Khalid Labib
           description: MS Student
-          image: nlp.png
+          image: panda.png
           url:
         - title: RKBM Rizmi
           description: PhD Student
-          image: nlp.png
+          image: panda.png
           url:
         - title: Saad Waheed
           description: PhD Student
-          image: nlp.png
+          image: panda.png
           url:
         - title: Inayat Rasool
           description: MS Student
-          image: nlp.png
+          image: panda.png
           url:
         - title: Bakhtiar Nafis
           description: MS Student
-          image: nlp.png
+          image: panda.png
           url: 
 ---
