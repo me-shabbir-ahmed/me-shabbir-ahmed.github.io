@@ -1,8 +1,8 @@
 ---
 abstract: "This presentation explores the application of time series model–based system identification for detecting structural damage
-through stress wave propagation. By integrating statistical time series analysis with physics-based wave propagation principles, the approach
+through stress wave propagation. By integrating statistical time series analysis with physics based wave propagation principles, the approach
 enables robust detection of subtle structural changes and material degradation. The presentation further examines the use of stress waves
-as a non-destructive sensing mechanism for identifying aging and state-dependent variations in lithium-ion batteries, with implications for realtime
+as a non-destructive sensing mechanism for identifying aging and state dependent variations in lithium ion batteries, with implications for realtime
 battery health monitoring and prognostics. Finally, the presentation discusses fundamental challenges in accurately simulating stress wave
 propagation in complex structural systems, including multiphysics interactions, material heterogeneity, and computational limitations."
 address:
@@ -21,7 +21,7 @@ featured: false
 image:
   caption: 
   focal_point: Right
-location: Wowchemy HQ
+location: South Dakota State University
 math: true
 publishDate: ""
 slides: ""
@@ -29,7 +29,7 @@ summary:
 tags: []
 title: Damage detection in structures by stress waves- a time series-based approach
 url_code: ""
-url_pdf: ""
+url_pdf: "Flyer_landscape_Ahmed_Feb26.pdf"
 url_slides: ""
 url_video: ""
 ---
