@@ -28,4 +28,6 @@ sections:
         <h3 style="color: #dc2626;"> Robotics and Controls</h3>
 
         We explore different control strategies for dynamical systems, develop novel methods for system identification and perform long-horizon prediction of robotic systems.
+    design:
+      columns: '1'
 ---
