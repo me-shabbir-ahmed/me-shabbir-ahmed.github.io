@@ -31,6 +31,5 @@ sections:
 
         We explore different control strategies for dynamical systems, develop novel methods for system identification and perform long-horizon prediction of robotic systems.
         
-    design:
-      columns: '1'
+    
 ---
