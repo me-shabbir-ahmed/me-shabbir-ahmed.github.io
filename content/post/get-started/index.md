@@ -2,6 +2,7 @@
 title: "Control System Engineering Lecture Notes"
 date: 2025-01-15
 authors: [admin]
+show_author_profile: false
 ---
 
 ## ME 451 - Automatic Controls
