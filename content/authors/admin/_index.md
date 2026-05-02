@@ -91,3 +91,8 @@ work:
       - Developed Koopman operator-based methods for battery diagnostics
       - Published research in peer-reviewed journals
 ---
+**Education**
+
+- PhD, Mechanical Engineering — Rensselaer Polytechnic Institute (2022)
+- MS, Mechanical Engineering — North Dakota State University (2017)
+- BSc, Mechanical Engineering — BUET (2013)
