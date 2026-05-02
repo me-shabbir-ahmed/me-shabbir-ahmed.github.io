@@ -29,9 +29,9 @@ summary:
 tags: []
 title: Damage detection in structures by stress waves- a time series-based approach
 url_code: ""
-url_pdf: "Flyer_landscape_Ahmed_Feb26.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-
+[Download Flyer](Flyer_landscape_Ahmed_Feb26.pdf)
