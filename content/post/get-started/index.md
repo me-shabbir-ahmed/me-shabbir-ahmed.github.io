@@ -10,7 +10,7 @@ Download the lecture notes below:
 
 [Lecture 2 - System (Spring-mass without damping)](Lecture%202.pdf)
 
-[Lecture 2 - System (Spring-mass with damping)](Lecture%203.pdf)
+[Lecture 3 - System (Spring-mass with damping)](Lecture%203.pdf)
 
 
 
