@@ -2,8 +2,8 @@
 title: Shabbir Ahmed
 superuser: true
 
-first_name: Dynamical Systems and Signals Lab
-last_name: (DSSL)
+first_name: Shabbir
+last_name: Ahmed
 role: Assistant Professor
 
 organizations:
@@ -18,4 +18,4 @@ bio: >
 
 - PhD, Mechanical Engineering — Rensselaer Polytechnic Institute (2022)
 - MS, Mechanical Engineering — North Dakota State University (2017)
-- BSc, Mechanical Engineering — BUET (2013)
+- BS, Mechanical Engineering — BUET (2013)
