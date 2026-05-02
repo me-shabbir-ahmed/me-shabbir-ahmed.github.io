@@ -16,7 +16,7 @@ authors: []
 date: "2026-02-26"
 date_end: ""
 event: IAD Seminar
-event_url: https://www.sdstate.edu/directory/shabbir-ahmed
+event_url: "https://www.sdstate.edu/directory/shabbir-ahmed"
 featured: false
 image:
   caption: 
