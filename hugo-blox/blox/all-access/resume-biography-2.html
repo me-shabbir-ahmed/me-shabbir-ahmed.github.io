@@ -45,7 +45,11 @@
             <div class="lg:pl-20">
               <div class="text-2xl sm:text-4xl pt-1 flex justify-center">
 
-                {{ partial "social_links" $person_page }}
+                {{ range $person.social }}
+  <a href="{{ .link }}" target="_blank" rel="noopener" class="text-zinc-500 hover:text-zinc-600 dark:text-zinc-400 dark:hover:text-zinc-300 mr-3">
+    <i class="{{ .icon_pack }} fa-{{ .icon }} fa-lg"></i>
+  </a>
+{{ end }}
 
               </div>
 
