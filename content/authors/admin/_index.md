@@ -1,5 +1,6 @@
 ---
 title: Dynamical Systems and Signals Lab (DSSL)
+name: Shabbir Ahmed
 superuser: true
 
 first_name: Shabbir
