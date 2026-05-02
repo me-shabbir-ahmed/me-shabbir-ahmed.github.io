@@ -9,8 +9,9 @@ sections:
     content:
       title: Selected Projects
       text: |-
+        Our research is at the intersection of **system identification and control**, **data-driven modeling of lithium ion batteries**, **random vibrations and structural damage detection** and **long-horizon prediction of robotic systems**.
 
-    Our research is at the intersection of **system identification and control**, **data-driven modeling of lithium ion batteries**, **random vibrations and structural damage detection** and **long-horizon prediction       of robotic systems**.
+        ---
 
         ---
 
