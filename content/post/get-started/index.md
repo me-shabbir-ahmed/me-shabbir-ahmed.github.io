@@ -8,9 +8,9 @@ authors: [admin]
 
 Download the lecture notes below:
 
-[Lecture 2 - System (Spring-mass without damping)](Lecture 2.pdf)
+[Lecture 2 - System (Spring-mass without damping)](Lecture%202.pdf)
 
-[Lecture 2 - System (Spring-mass with damping)](Lecture 3.pdf)
+[Lecture 2 - System (Spring-mass with damping)](Lecture%203.pdf)
 
 
 
