@@ -2,29 +2,21 @@
 title: 'Projects'
 date: 2023-10-24
 type: landing
-
 design:
-  # Section spacing
   spacing: '5rem'
-
-# Page sections
 sections:
-  - block: resume-projects
+  - block: markdown
     content:
       title: Selected Projects
-      text: I enjoy doing research. Here are a selection of projects that I have worked on over the years.
-      # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
-      items:
-        - title: Damage Detection in Structures
-          description: I have developed algorithms and methods to detect damage within structures using stress wave signals.
-          image: panda.png
-          url: 
-        - title: Lithium ion Battery Health Monitoring
-          description: I have used ultrasonic guided waves to determine SoC and SoH of batteries. I have used state estimation algorithms to predict the end of life of batteries. 
-          image: robot.png
-          url: 
-        - title: Robotics and Controls
-          description: I am exploring robotics and control related projects.
-          image: nlp.png
-          url: 
+      text: |-
+        Our research spans structural health monitoring, battery diagnostics, and control systems.
+
+        ### Damage Detection in Structures
+        We develop data-driven algorithms for detecting, localizing, and characterizing structural damage using ultrasonic guided waves (Lamb waves). By combining time series analysis (ARX/VARX) with physics-based wave propagation principles, our methods enable robust detection of cracks, delaminations, and corrosion.
+
+        ### Lithium-Ion Battery Health Monitoring
+        We develop diagnostic tools for estimating State of Charge (SoC) and State of Health (SoH) of lithium-ion batteries using Koopman operator methods and state estimation algorithms (Kalman filter, DMDc).
+
+        ### Robotics and Controls
+        We explore control strategies for dynamic systems including PID, MPC, LQR, and data-driven system identification using Koopman operator methods for real-time robotic control.
 ---
