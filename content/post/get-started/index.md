@@ -4,13 +4,13 @@ date: 2025-01-15
 authors: [admin]
 ---
 
-## ME XXX - Course Name
+## ME 451 - Automatic Controls
 
 Download the lecture notes below:
 
-[Lecture 1 - Topic Name](lecture1.pdf)
+[Lecture 2 - System (Spring-mass without damping)](Lecture 2.pdf)
 
-[Lecture 2 - Topic Name](lecture2.pdf)
+[Lecture 2 - System (Spring-mass with damping)](Lecture 3.pdf)
 
 
 
