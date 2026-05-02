@@ -9,7 +9,7 @@ sections:
     content:
       title: Selected Projects
       text: |-
-<div style="max-width: 100%; width: 100%;">
+
     Our research is at the intersection of **system identification and control**, **data-driven modeling of lithium ion batteries**, **random vibrations and structural damage detection** and **long-horizon prediction of robotic systems**.
 
         ---
@@ -29,7 +29,7 @@ sections:
         <h3 style="color: #dc2626;"> Robotics and Controls</h3>
 
         We explore different control strategies for dynamical systems, develop novel methods for system identification and perform long-horizon prediction of robotic systems.
-        </div>
+        
     design:
       columns: '1'
 ---
