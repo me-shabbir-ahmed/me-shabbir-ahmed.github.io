@@ -11,5 +11,10 @@ Download the lecture notes below:
 
 [Lecture 3 - System (Spring-mass with damping)](Lecture%203.pdf)
 
+[Lecture 4 - System (Spring-mass with damping and forcing)](Lecture%204.pdf)
+
+[Lecture 5 - System (State-Space Formulation)](Lecture%205S.pdf)
+
+
 
 
