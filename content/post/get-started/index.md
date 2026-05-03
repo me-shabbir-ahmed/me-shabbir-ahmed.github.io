@@ -59,6 +59,53 @@ Download the lecture notes below:
 
 [Lecture 25 - System (Routh Criteria)](Lecture%2025S.pdf)
 
+[Lecture 26 - System (Feedback System)](Lecture%2024.pdf)
+
+[Lecture 27 - System (Feedback System)](Lecture%2025.pdf)
+
+[Lecture 28 - System (Feedback System-PID Control)](Lecture%2026.pdf)
+
+[Lecture 29 - System (Feedback System-PID Control)](Lecture%2027.pdf)
+
+[Lecture 30 - System (Feedback System-PID Control)](Lecture%2028.pdf)
+
+[Lecture 31 - System (Feedback System-PID Control)](Lecture%2029.pdf)
+
+[Lecture 32 - System (State-Space DC Motor)](Lecture%2030.pdf)
+
+[Lecture 33 - System (Pneumatic and Hydraulic PID)](Lecture%2032S.pdf)
+
+[Lecture 34 - System (Pneumatic and Hydraulic PID)](Lecture%2032S.pdf)
+
+[Lecture 35 - System (Notes on PID)](Lecture%2033S.pdf)
+
+[Lecture 36 - System (Zeigler and Nichols PID Tuning)](Lecture%2034S.pdf)
+
+[Lecture 37 - System (Steady-State Error and System Type)](Lecture%2035S.pdf)
+
+[Lecture 38 - System (Root-Locus)](Lecture%2036S.pdf)
+
+[Lecture 39 - System (Root-Locus)](Lecture%2037S.pdf)
+
+[Lecture 40 - System (Root-Locus)](Lecture%2038S.pdf)
+
+[Lecture 41 - System (Frequency Response)](Lecture%2039S.pdf)
+
+[Lecture 42 - System (Gain Margin and Phase Margin)](Lecture%2040S.pdf)
+
+[Lecture 43 - System (Gain Margin and Phase Margin-Example)](Lecture%2041S.pdf)
+
+[Lecture 44 - System (Eigen Value, Eigen Vector and State Space )](Lecture%2042S.pdf)
+
+[Lecture 45 - System (Inverted Pendulum on a Cart-State Space )](Lecture%2043S.pdf)
+
+
+
+
+
+
+
+
 
 
 
