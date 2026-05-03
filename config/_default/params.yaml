@@ -37,7 +37,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Shabbir Ahmed"
+      text: "Dynamical Systems and Signals Lab (DSSL)"
       file: "icons/robot.png"
 
 # Site footer
