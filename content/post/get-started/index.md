@@ -47,6 +47,12 @@ Download the lecture notes below:
 
 [Lecture 19 - System (Step Response of Second Order Transfer Function)](Lecture%2019.pdf)
 
+[Lecture 20 - System (Second Order Transfer Function-Example)](Lecture%2019.pdf)
+
+[Lecture 24 - System (Stability)](Lecture%2024S.pdf)
+
+
+
 
 
 
