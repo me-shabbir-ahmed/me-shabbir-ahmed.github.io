@@ -44,9 +44,9 @@ header:
 footer:
   copyright:
     show_powered_by: false 
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Shabbir Ahmed. All rights reserved.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
