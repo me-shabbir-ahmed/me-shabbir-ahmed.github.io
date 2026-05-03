@@ -47,9 +47,17 @@ Download the lecture notes below:
 
 [Lecture 19 - System (Step Response of Second Order Transfer Function)](Lecture%2019.pdf)
 
-[Lecture 20 - System (Second Order Transfer Function-Example)](Lecture%2019.pdf)
+[Lecture 20 - System (Second Order Transfer Function-Example)](Lecture%2020.pdf)
+
+[Lecture 21 - System (Second Order Transfer Function-Example)](Lecture%2021.pdf)
+
+[Lecture 22 - System (zeta and omegan effect)](Lecture%2022.pdf)
+
+[Lecture 23 - System (Open-Loop Control)](Lecture%2022.pdf)
 
 [Lecture 24 - System (Stability)](Lecture%2024S.pdf)
+
+[Lecture 25 - System (Routh Criteria)](Lecture%2025S.pdf)
 
 
 
